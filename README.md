@@ -1,6 +1,9 @@
 # 📰 Daily Tech Feed → Slack
 
 This project fetches the latest tech news from RSS feeds and posts a summary into Slack.
+- TechCrunch AI
+- The Verge
+- MIT Technology Review
 
 ## Setup
 
