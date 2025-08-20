@@ -29,4 +29,4 @@ jobs:
       - name: Run script
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-        run: python feed.py
+        run: python rss_feeder.py
