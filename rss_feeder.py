@@ -1,6 +1,7 @@
 import feedparser
 import requests
 from datetime import date
+import os
 
 # ==== CONFIG ====
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
